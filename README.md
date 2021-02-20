@@ -1,3 +1,3 @@
 # timer
 
-The example of multi-threading , I/O , sound operations and GUI.
+The example of multi-threading , file read and write , sound operations and GUI.
